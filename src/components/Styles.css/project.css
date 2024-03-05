@@ -1,0 +1,162 @@
+.project {
+  border: solid 0px red;
+  height: 750px;
+  width: 79.7%;
+  text-align: center;
+  font-size: xx-large;
+  border-radius: 5px;
+  color: rgb(66, 55, 170);
+  background: rgb(133, 170, 185);
+  /* text-decoration: underline; */
+  text-shadow: 5px 5px 5px white;
+  text-decoration-color: rgb(145, 93, 137);
+  box-shadow: 3px 3px 3px pink;
+}
+
+.pro-header {
+  margin-top: -30px;
+
+  animation-name: pro-header1;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  transform: scale(1.2);
+}
+
+@keyframes pro-header1 {
+  10% {
+    transform: scale(1.3);
+  }
+}
+.all-project {
+  border: solid 0px burlywood;
+  height: 50rem;
+  width: 90rem;
+  /* margin-top: -10px; */
+  margin-left: -140px;
+  /* padding: 10px; */
+}
+
+.proj123 {
+  border: solid 0px rgb(6, 3, 3);
+  height: 360px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.p1 {
+  border: solid 0px rgb(135, 18, 150);
+  height: 320px;
+  width: 470px;
+  background-image: url(../../image/pl.png);
+  background-repeat: no-repeat;
+  box-shadow: 5px 5px 5px rgb(224, 231, 233);
+  border-radius: 15px;
+}
+/* .p1 img {
+  border: solid 1px red;
+
+  background-image: url(../../image/pl.png);
+  background-repeat: no-repeat;
+  height: 320px;
+  width: 470px;
+  border-radius: 15px;
+
+} */
+
+.p2 {
+  border: solid 0px rgb(135, 18, 150);
+  height: 320px;
+  width: 470px;
+  /* margin-left: 70px; */
+  box-shadow: 5px 5px 5px rgb(224, 231, 233);
+  border-radius: 15px;
+  background-repeat: no-repeat;
+  background-image: url(../../image/youtube2.png);
+}
+/* .p2 img {
+  height: 320px;
+  width: 470px;
+  border-radius: 15px;
+  background-repeat: no-repeat;
+  background-image: url(../../image/youtube2.png);
+} */
+
+.p3 {
+  border: solid 0px rgb(135, 18, 150);
+  height: 320px;
+  width: 470px;
+  box-shadow: 5px 5px 5px rgb(224, 231, 233);
+  /* margin-left: 70px; */
+  border-radius: 15px;
+  background-image: url(../../image/royal2.png);
+  background-repeat: no-repeat;
+}
+/* .p3 img {
+  height: 320px;
+  width: 470px;
+  border-radius: 15px;
+} */
+
+.proj456 {
+  border: solid 0px rgb(214, 65, 20);
+  height: 370px;
+  width: 100%;
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.p4 {
+  border: solid 0px rgb(135, 18, 150);
+  height: 320px;
+  width: 470px;
+  box-shadow: 5px 5px 5px rgb(224, 231, 233);
+  /* margin-left: 70px; */
+  border-radius: 15px;
+  background-image: url(../../image/shadi2.png);
+  background-repeat: no-repeat;
+}
+/* .p4 img {
+  height: 320px;
+  width: 470px;
+  border-radius: 15px;
+} */
+
+.p5 {
+  border: solid 0px rgb(135, 18, 150);
+  height: 320px;
+  width: 470px;
+  box-shadow: 5px 5px 5px rgb(224, 231, 233);
+  /* margin-left: 70px; */
+  border-radius: 15px;
+  background-image: url(../../image/Dibrarypng.png);
+  background-repeat: no-repeat;
+}
+/* .p5 img {
+  height: 320px;
+  width: 470px;
+  border-radius: 15px;
+} */
+
+.p6 {
+  border: solid 0px rgb(135, 18, 150);
+  height: 320px;
+  width: 470px;
+  box-shadow: 5px 5px 5px rgb(224, 231, 233);
+  /* margin-left: 70px; */
+  border-radius: 15px;
+  background-image: url(../../image/sur.png);
+  background-repeat: no-repeat;
+}
+/* .p6 img {
+  height: 400px;
+  width: 470px;
+  border-radius: 15px;
+} */
+
+.btn-box1 {
+  margin-top: -30px;
+}
+.btn-box1 a .btn {
+  text-decoration: none;
+}

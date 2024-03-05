@@ -1,0 +1,88 @@
+.logo {
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: 1px;
+  margin-left: 30px;
+  color: rgb(218, 80, 133);
+  text-shadow: 4px 4px 1px #59c2d2;
+}
+.logo {
+  animation-name: logo1;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  transform: scale(1.2);
+}
+
+@keyframes logo1 {
+  10% {
+    transform: scale(1.3);
+  }
+}
+
+span {
+  color: rgb(208, 50, 200);
+}
+
+/* .list{
+        border: solid 1px blue;
+        height:20px ;
+        width:340px;
+        
+    }  */
+
+.Navbar {
+  border: solid 0px black;
+  top: 0;
+  height: 50px;
+  width: 100%;
+  background-color: aqua;
+  display: flex;
+  border-radius: 5px;
+
+  box-shadow: 5px 5px 5px #80d7e6e9, inset 10px 10px 50px #e246cd;
+
+  position: fixed;
+
+  z-index: 1000;
+
+  border-bottom: 1px solid transparent;
+}
+
+.links {
+  height: auto;
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-left: 40%;
+}
+
+.links button {
+  height: 7vh;
+  width: 89px;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 10px;
+  /* color:  rgb(38, 113, 233); */
+  border: solid 1px aqua;
+  box-shadow: 5px 5px 5px #e4b2e4e9, inset -10px -10px 60px #24b7b7;
+  transition: all ease 0.2s;
+  margin: 0px 5px;
+
+  color: aqua;
+  -webkit-background-clip: text;
+  text-shadow: 10 10 600px rgba(228, 85, 202, 0.457);
+  animation: anime 1s infinite alternate;
+}
+@keyframes anime {
+  100% {
+    text-shadow: 10 10 60px rgba(226, 12, 204, 0.457);
+  }
+}
+.links button:active {
+  scale: 0.9;
+  background-color: rgb(233, 14, 36);
+}
+.links button:hover {
+  color: rgb(232, 12, 31);
+}
