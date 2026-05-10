@@ -1,4 +1,4 @@
-# 🚀 Professional Portfolio | Himanshu Grahacharya
+# 🚀 Professional Portfolio | Himanshu Shekhar Grahacharya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshugrahacharya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge)](https://himanshupofo.netlify.app/)
@@ -75,5 +75,5 @@ src/
 ---
 
 <p align="center">
-  Built with ❤️ by Himanshu Grahacharya
+  Built with ❤️ by Himanshu Shekhar Grahacharya
 </p>

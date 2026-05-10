@@ -210,7 +210,7 @@ const Contact = () => {
 
       <footer className="site-footer">
         <p className="footer-text">
-          © 2026 <span>Himanshu Grahacharya</span>. All rights reserved.
+          © 2026 <span>Himanshu Shekhar Grahacharya</span>. All rights reserved.
         </p>
         <a href="#top" className="footer-back-top" aria-label="Back to top">
           <i className="bx bx-up-arrow-alt"></i>

@@ -29,7 +29,7 @@ const About = () => {
           <h3>Full-Stack Developer & Software Engineer in Test</h3>
 
           <p>
-            I'm <strong style={{ color: "#a78bfa" }}>Himanshu Grahacharya</strong>,
+            I'm <strong style={{ color: "#a78bfa" }}>Himanshu Shekhar Grahacharya</strong>,
             currently working as a{" "}
             <strong style={{ color: "#06b6d4" }}>
               JSDET (Junior Software Development Engineer in Test) at ApraLabs

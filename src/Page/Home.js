@@ -52,7 +52,7 @@ const Home = () => {
 
           <h1 className="home-name fade-in-up delay-2">
             Hi, I'm <br />
-            <span className="highlight">Himanshu</span>
+            <span className="highlight">Himanshu Shekhar</span>
             <br />
             Grahacharya
           </h1>
