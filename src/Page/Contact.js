@@ -93,7 +93,7 @@ const Contact = () => {
               </p>
               <div className="contact-socials">
                 <a
-                  href="https://www.linkedin.com/"
+                  href="https://www.linkedin.com/in/himanshugrahacharya/"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="LinkedIn"
@@ -101,7 +101,7 @@ const Contact = () => {
                   <i className="bx bxl-linkedin"></i>
                 </a>
                 <a
-                  href="https://www.github.com/"
+                  href="https://github.com/HimanshuGrahacharya"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="GitHub"
@@ -109,7 +109,7 @@ const Contact = () => {
                   <i className="bx bxl-github"></i>
                 </a>
                 <a
-                  href="https://www.instagram.com/"
+                  href="https://www.instagram.com/himanshugrahacharya"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="Instagram"
@@ -117,7 +117,7 @@ const Contact = () => {
                   <i className="bx bxl-instagram"></i>
                 </a>
                 <a
-                  href="https://www.youtube.com/"
+                  href="https://www.youtube.com/@HimanshuGrahacharya"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="YouTube"
@@ -210,7 +210,7 @@ const Contact = () => {
 
       <footer className="site-footer">
         <p className="footer-text">
-          © 2024 <span>Himanshu Grahacharya</span>. All rights reserved.
+          © 2026 <span>Himanshu Grahacharya</span>. All rights reserved.
         </p>
         <a href="#top" className="footer-back-top" aria-label="Back to top">
           <i className="bx bx-up-arrow-alt"></i>

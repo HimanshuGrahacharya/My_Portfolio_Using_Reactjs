@@ -122,7 +122,7 @@ const Home = () => {
               <i className="bx bxl-linkedin"></i>
             </a>
             <a
-              href="https://github.com/"
+              href="https://github.com/HimanshuGrahacharya"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"
@@ -130,7 +130,7 @@ const Home = () => {
               <i className="bx bxl-github"></i>
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/himanshugrahacharya"
               target="_blank"
               rel="noreferrer"
               aria-label="Instagram"
@@ -138,7 +138,7 @@ const Home = () => {
               <i className="bx bxl-instagram"></i>
             </a>
             <a
-              href="https://www.youtube.com/"
+              href="https://www.youtube.com/@HimanshuGrahacharya"
               target="_blank"
               rel="noreferrer"
               aria-label="YouTube"
@@ -146,7 +146,7 @@ const Home = () => {
               <i className="bx bxl-youtube"></i>
             </a>
             <a
-              href="https://twitter.com/"
+              href="https://twitter.com/h_grahacharya"
               target="_blank"
               rel="noreferrer"
               aria-label="Twitter"
